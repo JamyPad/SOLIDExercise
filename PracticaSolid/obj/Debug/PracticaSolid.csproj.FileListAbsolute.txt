@@ -1,0 +1,24 @@
+C:\Users\ijpadilla\Documents\Proyectos\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.exe.config
+C:\Users\ijpadilla\Documents\Proyectos\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.exe
+C:\Users\ijpadilla\Documents\Proyectos\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.pdb
+C:\Users\ijpadilla\Documents\Proyectos\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.csprojResolveAssemblyReference.cache
+C:\Users\ijpadilla\Documents\Proyectos\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.exe
+C:\Users\ijpadilla\Documents\Proyectos\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.pdb
+C:\Users\Ingrid\OneDrive\Documents\ENTRENAMIENTO CARACOL\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.exe.config
+C:\Users\Ingrid\OneDrive\Documents\ENTRENAMIENTO CARACOL\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.exe
+C:\Users\Ingrid\OneDrive\Documents\ENTRENAMIENTO CARACOL\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.pdb
+C:\Users\Ingrid\OneDrive\Documents\ENTRENAMIENTO CARACOL\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.exe
+C:\Users\Ingrid\OneDrive\Documents\ENTRENAMIENTO CARACOL\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.pdb
+C:\Users\Ingrid\OneDrive\Documents\ENTRENAMIENTO CARACOL\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.csprojResolveAssemblyReference.cache
+C:\Users\ijpadilla\Documents\PRACTICA SOLID\PracticaSolid-20160829T133557Z\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.exe.config
+C:\Users\ijpadilla\Documents\PRACTICA SOLID\PracticaSolid-20160829T133557Z\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.exe
+C:\Users\ijpadilla\Documents\PRACTICA SOLID\PracticaSolid-20160829T133557Z\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.pdb
+C:\Users\Ingrid\Downloads\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.exe.config
+C:\Users\Ingrid\Downloads\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.exe
+C:\Users\Ingrid\Downloads\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.pdb
+C:\Users\Ingrid\Downloads\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.exe
+C:\Users\Ingrid\Downloads\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.pdb
+C:\Users\Ingrid\Downloads\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.csprojResolveAssemblyReference.cache
+C:\Users\Ingrid\Downloads\.Net c# Training Exercises\PracticaSolid\PracticaSolid\bin\Debug\PracticaSolid.exe.config
+C:\Users\Ingrid\Downloads\.Net c# Training Exercises\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.exe
+C:\Users\Ingrid\Downloads\.Net c# Training Exercises\PracticaSolid\PracticaSolid\obj\Debug\PracticaSolid.pdb
